@@ -1,6 +1,6 @@
 # Concolic Execution with Z3
 
-For this task, we will apply concolic execution to the first RERS challange problem. In principle we are following the guide at 
+For this task, we will apply concolic execution to a small crackme challenge. In principle we are following the guide at 
 
 > http://shell-storm.org/blog/Binary-analysis-Concolic-execution-with-Pin-and-z3/
 
